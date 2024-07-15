@@ -1,0 +1,17 @@
+npm start
+#### Task 4: CODE_OF_CONDUCT.md 文件  
+  
+在仓库根目录下添加一个 `CODE_OF_CONDUCT.md` 文件，描述你的社区行为准则。  
+  
+```markdown  
+# Contributor Covenant Code of Conduct  
+  
+## Our Pledge  
+  
+We as members, contributors, and leaders pledge to make participation in our  
+community a harassment-free experience for everyone, regardless of age, body  
+size, visible or invisible disability, ethnicity, sex characteristics, gender  
+identity and expression, level of experience, education, socio-economic status,  
+nationality, personal appearance, race, religion, or sexual identity  
+and orientation.  
+  
