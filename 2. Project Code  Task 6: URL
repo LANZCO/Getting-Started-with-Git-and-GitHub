@@ -1,0 +1,9 @@
+**Problem Statement**:  
+  
+Our project aims to solve the problem of easily managing and tracking tasks for a team.  
+  
+**Solution Approach**:  
+  
+We have developed a web application using Node.js and Express that allows users to create, view, edit, and delete tasks. The application uses MongoDB for data persistence and provides a RESTful API for interacting with the tasks.  
+  
+The application is designed with a user-friendly interface and allows for easy collaboration among team members.
